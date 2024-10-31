@@ -1,7 +1,3 @@
-Here’s a README file for your `ToDoApp` project:
-
----
-
 # ToDoApp
 
 This is a simple console-based To-Do List application built with C#. The app allows users to manage their tasks effectively, enabling them to add new tasks, mark tasks as complete, delete tasks, and display all current tasks.
